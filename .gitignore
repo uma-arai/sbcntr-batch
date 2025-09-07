@@ -1,0 +1,21 @@
+# バイナリファイル
+bin/
+
+# IDE関連
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 依存関係
+vendor/
+
+# ログファイル
+*.log
+
+# 環境変数
+.env
+.env.local
+
+# その他
+.DS_Store

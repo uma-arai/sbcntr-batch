@@ -1,0 +1,9 @@
+APP_NAME: "sbcntr-batch"
+
+DB:
+  HOST: "localhost"
+  PORT: 5432
+  USERNAME: "sbcntrapp"
+  PASSWORD: "password"
+  DB_NAME: "sbcntrapp"
+  SSL_MODE: "disable" 
